@@ -13,3 +13,8 @@ Weather mobile App for Indonesia, with geolocator plugin and API from BMKG (Bada
 <p float="left">
   <img src="app-images/main.jpeg" width="250" />
 </p>
+
+### About Me Screen
+<p float="left">
+  <img src="app-images/about.jpeg" width="250" />
+</p>
